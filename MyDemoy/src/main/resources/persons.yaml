@@ -1,0 +1,31 @@
+## YAML Template.
+---
+- name: "John Smith"
+  address: "New York, 5th Avenue, 1"
+
+- name: "Emma Johnson"
+  address: "London, Baker Street, 221B"
+
+- name: "Michael Brown"
+  address: "Berlin, Unter den Linden, 12"
+
+- name: "Sophia Garcia"
+  address: "Paris, Champs-Elysees, 45"
+
+- name: "James Wilson"
+  address: "Tokyo, Shibuya Crossing, Central Area"
+
+- name: "Olivia Martinez"
+  address: "Sydney, George Street, 100"
+
+- name: "William Taylor"
+  address: "Toronto, Yonge Street, 250"
+
+- name: "Ava Anderson"
+  address: "Los Angeles, Hollywood Boulevard, 6801"
+
+- name: "Alexander Thomas"
+  address: "Moscow, Tverskaya Street, 15"
+
+- name: "Isabella Jackson"
+  address: "Rome, Via del Corso, 300"
